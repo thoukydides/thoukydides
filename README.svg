@@ -9,51 +9,53 @@
           justify-content: space-around;
           width: 100%;
         }
-        .container>a {
+        .container a {
           justify-content: center;
+        }
+        .container img {
           width: 50px;
           height: 50px;
         }
       </style>
       <div class="container">
         <a rel="me" href="https://www.thouky.co.uk/software" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg" />
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg"></img>
         </a>
         <a rel="me" href="https://twitter.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-twitter.svg" />
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-twitter.svg"></img>
         </a>
         <a rel="me" href="https://mastodon.social/@thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-mastodon.svg" />
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-mastodon.svg"></img>
         </a>
         <a rel="me" href="http://www.facebook.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-facebook.svg" />
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-facebook.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="https://plus.google.com/+AlexanderThoukydides?rel=author" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-googleplus.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-googleplus.svg"></img>
         </a>
         -->
         <a rel="me" href="http://www.linkedin.com/in/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-linkedin.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-linkedin.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="http://www.youtube.com/user/thouky1" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-youtube.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-youtube.svg"></img>
         </a>
         -->
         <a rel="me" href="http://www.flickr.com/photos/thouky/" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-flickr.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-flickr.svg"></img>
         </a>
         <a rel="me" href="http://www.imdb.com/name/nm8267628/" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-imdb.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-imdb.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="https://github.com/thoukydides" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-github.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-github.svg"></img>
         </a>
         -->
         <a rel="me" href="https://www.strava.com/athletes/thouk" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-strava.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-strava.svg"></img>
         </a>
       </div>
     </div>
