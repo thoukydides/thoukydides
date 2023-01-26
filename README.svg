@@ -17,16 +17,16 @@
       </style>
       <div class="container">
         <a rel="me" href="https://www.thouky.co.uk/software" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg" />
         </a>
         <a rel="me" href="https://twitter.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-twitter.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-twitter.svg" />
         </a>
         <a rel="me" href="https://mastodon.social/@thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-mastodon.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-mastodon.svg" />
         </a>
         <a rel="me" href="http://www.facebook.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-facebook.svg">
+          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-facebook.svg" />
         </a>
         <!-- 
         <a rel="me" href="https://plus.google.com/+AlexanderThoukydides?rel=author" target="_blank">
