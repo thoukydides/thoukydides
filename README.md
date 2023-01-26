@@ -1,6 +1,5 @@
-### Hi there 👋
-
 I can be found on:
+    [Home Page](https://www.thouky.co.uk/) |
     [Twitter](https://twitter.com/thouky) |
     [Facebook](http://www.facebook.com/thouky) |
     <a rel="me" href="https://mastodon.social/@thouky">Mastodon</a> |
