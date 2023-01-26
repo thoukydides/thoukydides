@@ -19,43 +19,43 @@
       </style>
       <div class="container">
         <a rel="me" href="https://www.thouky.co.uk/software" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg"></img>
+          <img src="icon-contact-home.svg"></img>
         </a>
         <a rel="me" href="https://twitter.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-twitter.svg"></img>
+          <img src="icon-contact-twitter.svg"></img>
         </a>
         <a rel="me" href="https://mastodon.social/@thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-mastodon.svg"></img>
+          <img src="icon-contact-mastodon.svg"></img>
         </a>
         <a rel="me" href="http://www.facebook.com/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-facebook.svg"></img>
+          <img src="icon-contact-facebook.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="https://plus.google.com/+AlexanderThoukydides?rel=author" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-googleplus.svg"></img>
+          <img src="icon-contact-googleplus.svg"></img>
         </a>
         -->
         <a rel="me" href="http://www.linkedin.com/in/thouky" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-linkedin.svg"></img>
+          <img src="icon-contact-linkedin.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="http://www.youtube.com/user/thouky1" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-youtube.svg"></img>
+          <img src="icon-contact-youtube.svg"></img>
         </a>
         -->
         <a rel="me" href="http://www.flickr.com/photos/thouky/" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-flickr.svg"></img>
+          <img src="icon-contact-flickr.svg"></img>
         </a>
         <a rel="me" href="http://www.imdb.com/name/nm8267628/" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-imdb.svg"></img>
+          <img src="icon-contact-imdb.svg"></img>
         </a>
         <!-- 
         <a rel="me" href="https://github.com/thoukydides" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-github.svg"></img>
+          <img src="icon-contact-github.svg"></img>
         </a>
         -->
         <a rel="me" href="https://www.strava.com/athletes/thouk" target="_blank">
-          <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-strava.svg"></img>
+          <img src="icon-contact-strava.svg"></img>
         </a>
       </div>
     </div>
