@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.6.0.1-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="225pt" height="225pt" viewBox="14.249 -237.299 225 225">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="-225" gradientTransform="matrix(0 -1 1 0 112.5 -70.852)">
+   <stop offset="0" stop-color="#71b8e6"/>
+   <stop offset="1" stop-color="#016599"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="Group" stroke-linejoin="miter" stroke="none">
+   <rect x="-112.499" y="-112.499" width="224.999" height="224.999" transform="translate(126.75 124.8) rotate(90)" fill="url(#LinearGradient)"/>
+   <path d="M 83.612,50.93 L 83.612,149.884 L 50.52,149.884 L 50.52,50.93 L 83.612,50.93 L 83.612,50.93 M 67.068,163.392 C 78.606,163.392 85.792,170.996 85.792,180.49 C 85.576,190.198 78.606,197.588 67.288,197.588 C 55.966,197.588 48.564,190.198 48.564,180.49 C 48.564,170.996 55.746,163.392 66.852,163.392 L 67.068,163.392 L 67.068,163.392 Z" stroke-width="1.154" fill="#ffffff" marker-start="none" marker-end="none"/>
+   <path d="M 101.928,50.93 L 135.02,50.93 L 135.02,106.19 C 135.02,109.148 135.236,112.106 136.11,114.214 C 138.502,120.124 143.948,126.248 153.09,126.248 C 165.068,126.248 169.856,117.17 169.856,103.868 L 169.856,50.93 L 202.948,50.93 L 202.948,107.668 C 202.948,138.064 186.622,152.206 164.846,152.206 C 146.992,152.206 139.156,142.286 134.802,135.534 L 135.02,135.534 L 135.02,149.884 L 101.928,149.884 C 102.362,140.602 101.928,50.93 101.928,50.93 L 101.928,50.93 Z" stroke-width="1.154" fill="#ffffff" marker-start="none" marker-end="none"/>
+  </g>
+ </g>
+ <g id="Layer_1" transform="scale(1 -1)"/>
+</svg>

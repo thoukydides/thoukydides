@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.6.0.1-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="224.998pt" height="224.998pt" viewBox="255.244 -473.922 224.998 224.998">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="-224.998" gradientTransform="matrix(0 -1 1 0 112.498 -70.852)">
+   <stop offset="0" stop-color="#0001fe"/>
+   <stop offset="1" stop-color="#000181"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="Group" font-size="57.166" font-weight="bold" font-family="Georgia" stroke="none">
+   <rect x="-112.499" y="-112.499" width="224.998" height="224.998" transform="translate(367.744 361.424) rotate(90)" stroke-linejoin="miter" fill="url(#LinearGradient)"/>
+   <path d="M 278.972,300 L 336.145,357.173 L 339.972,353.347 C 345.72,347.598 352.812,344.005 360.24,342.568 C 362.716,342.089 365.23,341.85 367.743,341.85 C 377.796,341.85 387.85,345.682 395.515,353.347 L 399.352,357.184 L 456.535,300 L 278.972,300 Z M 275.119,304.633 L 275.119,418.199 L 331.902,361.416 L 275.119,304.633 Z M 460.368,304.652 L 403.594,361.426 L 460.368,418.2 L 460.368,304.652 Z M 344.215,357.59 L 278.959,422.846 L 456.528,422.846 L 391.272,357.59 C 378.286,344.603 357.201,344.603 344.215,357.59 Z" stroke-linecap="round" fill="#ffffff" stroke-width="9.828" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+   <text xml:space="preserve" transform="translate(340.078 370.412) scale(1 -1)" kerning="auto" stroke-linecap="round" fill="#0002bf" stroke-width="0.298" stroke-linejoin="round"><tspan x="0" y="0">@</tspan></text>
+  </g>
+ </g>
+ <g id="Layer_1" transform="scale(1 -1)"/>
+</svg>

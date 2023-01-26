@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.7.0.0-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="224.999pt" height="224.999pt" viewBox="985.501 -237.298 224.999 224.999">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="-160.176" gradientTransform="translate(1099.36 204.426)">
+   <stop offset="0" stop-color="#b10000"/>
+   <stop offset="1" stop-color="#ff5600"/>
+  </linearGradient>
+ </defs>
+ <g id="Foreground" transform="scale(1 -1)">
+  <g id="Group" stroke-linejoin="miter" stroke="none">
+   <rect x="985.502" y="12.3" width="224.999" height="224.999" fill="#ffffff"/>
+   <path d="M 1024.82,74.491 L 1024.82,131.044 C 1024.55,131.061 1099.73,190.415 1099.73,189.851 L 1173.53,131.044 L 1173.53,74.491 C 1173.53,58.308 1160.39,45.171 1144.21,45.171 L 1117.56,45.171 C 1117.66,45.713 1117.72,46.271 1117.72,46.844 L 1117.72,92.66 C 1117.72,97.644 1113.67,101.691 1108.69,101.691 L 1090.25,101.691 C 1085.26,101.691 1081.21,97.644 1081.21,92.66 L 1081.21,46.844 C 1081.21,46.271 1081.27,45.713 1081.37,45.171 L 1054.14,45.171 C 1037.95,45.171 1024.82,58.308 1024.82,74.491 Z M 1002.12,119.502 L 997.579,125.336 L 1099.36,204.426 L 1150.77,164.154 L 1150.77,185.073 L 1173.14,185.073 L 1173.14,146.624 L 1198.42,126.822 L 1194.49,120.583 L 1099.36,196.649 L 1002.12,119.502 Z" marker-start="none" marker-end="none" fill="url(#LinearGradient)"/>
+  </g>
+ </g>
+</svg>
