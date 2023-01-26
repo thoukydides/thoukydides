@@ -1,15 +1,14 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.6.0.1-->
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.7.0.0-->
 <svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="224.998pt" height="224.998pt" viewBox="496.5 -237.298 224.998 224.998">
  <defs>
 	</defs>
- <g id="Layer 1" transform="scale(1 -1)">
+ <g id="Foreground" transform="scale(1 -1)">
   <g id="Group" stroke-linejoin="miter" stroke="none">
-   <rect x="-112.499" y="-112.499" width="224.998" height="224.998" transform="translate(609 124.8) rotate(90)" fill="#ffffff"/>
-   <ellipse cx="563.249" cy="124.799" rx="38.625" ry="38.625" stroke-linecap="round" stroke-width="2.344" fill="#246dd7"/>
-   <ellipse cx="654.749" cy="124.799" rx="38.625" ry="38.625" stroke-linecap="round" stroke-width="2.344" fill="#fd0083"/>
+   <rect x="-112.499" y="-112.499" width="224.998" height="224.998" transform="translate(609 124.8) rotate(90)" fill="#246dd7"/>
+   <ellipse cx="563.249" cy="124.799" rx="38.625" ry="38.625" fill="#ffffff" stroke-width="2.344" stroke-linecap="round"/>
+   <ellipse cx="654.749" cy="124.799" rx="38.625" ry="38.625" fill="#fd0083" stroke-width="2.344" stroke-linecap="round"/>
   </g>
  </g>
- <g id="Layer_1" transform="scale(1 -1)"/>
 </svg>
