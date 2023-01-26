@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/thouky.svg" width="600px" height="175px">
+  <a href="https://www.thouky.co.uk">
+    <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/thouky.svg" width="600px" height="175px">
+  </a>
 </div>
 <p>
 <p>
 <div align="center">
-  <a href="https://www.thouky.co.uk/software">
+  <a href="https://www.thouky.co.uk">
     <img src="https://raw.githubusercontent.com/thoukydides/thoukydides/master/images/icon-contact-home.svg" width="50px" height="50px">
   </a>
   <a href="https://twitter.com/thouky">
