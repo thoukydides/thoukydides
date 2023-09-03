@@ -40,14 +40,14 @@
  <set attributeName="stroke-dashoffset" to="1000" />
  <set attributeName="fill-opacity" to="0" />
 
- <animate href="#Outer" id="AnimateOuterOutline" begin="0;AnimateOuterFade.end+1s" attributeName="stroke-dashoffset" values="1000;0" calcMode="spline" keyTimes="0;1" keysplines="0.6 0.1 0.8 0.4" fill="freeze" dur="10s" />
+ <animate href="#Outer" id="AnimateOuterOutline" begin="0;AnimateOuterFade.end+1s" attributeName="stroke-dashoffset" values="1000;0" fill="freeze" dur="10s" />
  <set href="#Outer" begin="AnimateOuterOutline.begin" attributeName="stroke-opacity" to="1" />
 
  <animate href="#Outer" id="AnimateOuter" begin="AnimateOuterOutline.end" attributeName="fill-opacity" to="1" fill="freeze" dur="10s" />
  <animate href="#Outer" begin="AnimateOuter.begin+5s" attributeName="stroke-opacity" to="0" fill="freeze" dur="5s" />
  <animate href="#OuterHighlight" begin="AnimateOuter.begin" attributeName="fill-opacity" to="1" fill="freeze" dur="1s" />
 
- <animate href="#Inner" id="AnimateInnerOutline" begin="AnimateOuter.end" attributeName="stroke-dashoffset" values="1000;0" calcMode="spline" keyTimes="0;1" keysplines="0.6 0.1 0.8 0.4" fill="freeze" dur="5s" />
+ <animate href="#Inner" id="AnimateInnerOutline" begin="AnimateOuter.end" attributeName="stroke-dashoffset" values="1000;0" fill="freeze" dur="5s" />
  <set href="#Inner" begin="AnimateInnerOutline.begin" attributeName="stroke-opacity" to="1" />
 
  <animate href="#Inner" id="AnimateInner" begin="AnimateInnerOutline.end" attributeName="fill-opacity" to="1" fill="freeze" dur="10s" />
