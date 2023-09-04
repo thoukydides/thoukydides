@@ -36,28 +36,27 @@
 
  <!-- Manually added animations -->
 
- <set attributeName="stroke-dasharray" to="1000" />
- <set attributeName="stroke-dashoffset" to="1000" />
  <set attributeName="fill-opacity" to="0" />
+ <set attributeName="stroke-opacity" to="0" />
 
- <animate href="#Outer" id="AnimateOuterOutline" begin="0;AnimateOuterFade.end+1s" attributeName="stroke-dashoffset" values="1000;0" fill="freeze" dur="10s" />
+ <animate href="#Outer" id="AnimateOuterOutline" begin="0;AnimateOuterFade.end+1s" attributeName="stroke-dasharray" values="0 500; 500 0" fill="freeze" dur="5s" />
  <set href="#Outer" begin="AnimateOuterOutline.begin" attributeName="stroke-opacity" to="1" />
 
- <animate href="#Outer" id="AnimateOuter" begin="AnimateOuterOutline.end" attributeName="fill-opacity" to="1" fill="freeze" dur="10s" />
+ <animate href="#Outer" id="AnimateOuter" begin="AnimateOuterOutline.end" attributeName="fill-opacity" to="1" fill="freeze" dur="5s" />
  <animate href="#Outer" begin="AnimateOuter.begin+5s" attributeName="stroke-opacity" to="0" fill="freeze" dur="5s" />
  <animate href="#OuterHighlight" begin="AnimateOuter.begin" attributeName="fill-opacity" to="1" fill="freeze" dur="1s" />
 
- <animate href="#Inner" id="AnimateInnerOutline" begin="AnimateOuter.end" attributeName="stroke-dashoffset" values="1000;0" fill="freeze" dur="5s" />
- <set href="#Inner" begin="AnimateInnerOutline.begin" attributeName="stroke-opacity" to="1" />
+ <animate href="#Inner" id="AnimateInner" begin="AnimateOuter.end-1s" attributeName="stroke-dasharray" values="0 20; 20 0" dur="10s" />
+ <animate href="#Inner" begin="AnimateInner.begin" attributeName="stroke-dashoffset" values="0;20" dur="0.5s" repeatDur="10s" />
+ <set href="#Inner" begin="AnimateInner.begin" attributeName="stroke-opacity" to="1" />
+ <animate href="#InnerHighlight" begin="AnimateInner.begin+2s" attributeName="fill-opacity" to="1" fill="freeze" dur="1s" />
+ <animate href="#Inner" begin="AnimateInner.end-5s" attributeName="fill-opacity" to="1" fill="freeze" dur="5s" />
+ <animate href="#Inner" begin="AnimateInner.end-2s" attributeName="stroke-opacity" to="0" fill="freeze" dur="2s" />
 
- <animate href="#Inner" id="AnimateInner" begin="AnimateInnerOutline.end" attributeName="fill-opacity" to="1" fill="freeze" dur="10s" />
- <animate href="#Inner" begin="AnimateInner.begin+5s" attributeName="stroke-opacity" to="0" fill="freeze" dur="5s" />
- <animate href="#InnerHighlight" begin="AnimateInner.begin" attributeName="fill-opacity" to="1" fill="freeze" dur="1s" />
+ <animate href="#Inner" id="AnimateInnerFade" begin="AnimateInner.end+5s" attributeName="fill-opacity" to="0" fill="freeze" dur="3s" />
+ <animate href="#InnerHighlight" begin="AnimateInnerFade.end" attributeName="fill-opacity" to="0" fill="freeze" dur="1s" />
 
- <animate href="#Inner" id="AnimateInnerFade" begin="AnimateInner.end+10s" attributeName="fill-opacity" to="0" fill="freeze" dur="5s" />
- <animate href="#InnerHighlight" begin="AnimateInnerFade.end-1s" attributeName="fill-opacity" to="0" fill="freeze" dur="1s" />
-
- <animate href="#Outer" id="AnimateOuterFade" begin="AnimateInnerFade.end" attributeName="fill-opacity" to="0" fill="freeze" dur="5s" />
- <animate href="#OuterHighlight" begin="AnimateOuterFade.end-1s" attributeName="fill-opacity" to="0" fill="freeze" dur="1s" />
+ <animate href="#Outer" id="AnimateOuterFade" begin="AnimateInnerFade.end" attributeName="fill-opacity" to="0" fill="freeze" dur="3s" />
+ <animate href="#OuterHighlight" begin="AnimateOuterFade.end" attributeName="fill-opacity" to="0" fill="freeze" dur="1s" />
 
 </svg>
